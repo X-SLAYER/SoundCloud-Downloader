@@ -1,4 +1,4 @@
-# Sound Cloud Downloader
+# SoundCloud Downloader
 
 a simple app to download soundcloud tracks .
 
